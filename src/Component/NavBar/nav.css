@@ -1,0 +1,22 @@
+ .navBar{
+    height: 55px;
+    width: 100%;
+    background-color: black;
+    position: fixed;
+    top: 0;
+
+}
+.logo{
+    position: fixed;
+    left: 20px;
+    height: 60px;
+    width: 95px;
+}
+.avatar{
+
+    position: fixed;
+    right: 20px;
+    height: 40px;
+    margin-top: 6px;
+    width: 65px;
+}
